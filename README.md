@@ -108,7 +108,7 @@ Empower every team to work like they have 10× more time and 10× more ability.
 
 ## 📫 Let’s Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
