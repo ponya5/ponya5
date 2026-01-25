@@ -64,7 +64,7 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
 ---
 
 ### 🤖 Generative AI for Everyone  
-<img width="80" alt="DeepLearning.AI Logo" src="https://opencourser.com/collection/py6dgp/deeplearning-ai-tensorflow-developer" />
+<img width="80" alt="DeepLearning.AI Logo" src="https://cdn-1.webcatalog.io/catalog/deeplearning-ai/deeplearning-ai-icon-filled-256.webp?v=1718611604869" />
 
 **Issuer:** DeepLearning.AI  
 **Issued:** Sep 2025  
