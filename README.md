@@ -7,7 +7,7 @@
   border-radius: 20px;
   box-shadow: 0 0 40px rgba(0,0,0,0.25);
 ">
-  <img src="https://github.com/user-attachments/assets/0e837149-f98c-4ea2-86bf-c67dbed66d26"
+  <img src="https://www.daniel-shalom.com/_next/image?url=%2Fimages%2Fanimated_profile.jpg&w=2048&q=75"
        width="420"
        style="border-radius: 50%; mask-image: radial-gradient(circle, white 60%, transparent 100%); -webkit-mask-image: radial-gradient(circle, white 60%, transparent 100%);" />
 </div>
