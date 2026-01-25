@@ -84,6 +84,9 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
   <a href="https://www.instagram.com/daniel.shalom.ai/">
     <img src="https://img.shields.io/badge/Instagram-@daniel.shalom.ai-purple?style=for-the-badge&logo=instagram" />
   </a>
+  <a href="https://www.daniel-shalom.com">
+    <img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=google-chrome" />
+  </a>
 </p>
 
 ---
@@ -134,8 +137,11 @@ Empower every team to work like they have 10× more time and 10× more ability.
 |--------|------------------|------------|-------------|
 | **PathPilot Tutorial Generator** | Converts any topic into a fully produced tutorial video (script → visuals → narration → MP4). | Python, Next.js, MoviePy, DALL-E 3, ElevenLabs, GPT-4 | End-to-end AI video production with multi-agent orchestration. |
 | **PathPilot (Monorepo)** | Unified ecosystem of AI apps for education, analytics, and automation. | React, TypeScript, FastAPI, Flask, Docker | Enterprise-grade monorepo with shared modules & GDPR-ready architecture. |
+| **Large Scale Migration Tool** | Full-stack document automation tool for bulk financial document retrieval from web portals. | Python, FastAPI, React, TypeScript, Playwright, Tailwind CSS, SQLite | Browser automation with multi-portal support, customizable filtering, and AWS S3 integration. |
+| **The Tokenizer: Rise of the Ledgers** | Retro 2D platform shooter through cryptocurrency tokenization history (2017-2025). | JavaScript, HTML5 Canvas | 6 eras, SPiCE token collection, boss battles, global leaderboard, pixel art graphics. |
+| **FormGuard** | IRS tax form validation & processing system (W-8BEN, W-8BEN-E, W-9, W-8IMY, Self-Cert). | Python, FastAPI, React, AWS Textract, SQLAlchemy, Material-UI | Automated OCR extraction, custom validation logic, batch processing, JWT auth, simulation mode. |
+| **Social Stash** | Personal social media content organizer for saving and categorizing posts across platforms. | React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, TanStack Query | Multi-platform support (X, LinkedIn, Instagram, YouTube, TikTok, Facebook), PWA, dark/light mode. |
 | **PoMusic 2.0** | AI-powered electronic music creation using live coding and synthesis. | React, Electron, Strudel.js, FastAPI | Blends live coding with real-time AI audio manipulation. |
-| **FormGuard** | Automates tax form OCR, validation & compliance workflows. | Python, Streamlit, React, AWS Textract | High-reliability batch processing with PDF preview & full validation. |
 | **VDock** | Dashboard for orchestrating agents, scripts, and containers remotely. | Vue, Python, TypeScript | Universal control center for AI agents, VMs, and microservices. |
 | **aiMux** | Routes & automates multimodal AI workflows in real time. | Python, JavaScript | Low-latency, scalable agent-first orchestration layer. |
 | **CrewAI Business Analyst** | Autonomous agent that produces financial & business research reports. | Python, JS, HTML, CSS | Multi-agent research pipeline with interactive report outputs. |
@@ -168,6 +174,67 @@ A **monorepo of interconnected AI-powered applications** for education, analytic
 * **Distinction:** Showcases expertise in large-scale architecture (monorepo) and full-stack AI application development.
 
 ---
+
+### [Large Scale Migration Tool](https://github.com/ponya5/large-scale-migration-tool)
+A **full-stack document automation tool** designed to streamline the download and management of financial documents from web portals.
+* **Stack:** Python, FastAPI, React, TypeScript, Playwright, Tailwind CSS, SQLite
+* **Purpose:** To enable teams to perform bulk document retrieval with a clean, modern desktop UI and optional cloud integration.
+* **Features:**
+    * **Browser Automation:** Uses **Playwright** for automated login and document downloads from web portals.
+    * **Multi-Portal Support:** Supports Allview/Titan portals with customizable filtering by category and year.
+    * **Local File Management:** Includes search capabilities and organized local storage.
+    * **Cloud Integration:** Optional **AWS S3** integration for cloud backup and sharing.
+    * **Modern UI:** Clean React + TypeScript frontend with Tailwind CSS styling.
+* **Distinction:** Perfect for teams needing reliable, scalable bulk document retrieval with both local and cloud storage options.
+
+---
+
+### [The Tokenizer: Rise of the Ledgers](https://github.com/ponya5/tokenizer-game)
+A **retro 2D platform shooter game** that takes players on a journey through the history of cryptocurrency tokenization.
+* **Stack:** JavaScript, HTML5 Canvas
+* **Purpose:** A personal fun project celebrating crypto history through classic gaming mechanics.
+* **Features:**
+    * **6 Historical Eras:** Battle through cryptocurrency history from 2017 to 2025.
+    * **Classic Gameplay:** Collect SPiCE tokens, defeat enemies, and face epic boss battles.
+    * **Pixel Art Graphics:** Retro aesthetic with smooth animations and classic platformer mechanics.
+    * **Global Leaderboard:** Compete with players worldwide for high scores.
+    * **Pure Vanilla:** Built entirely with vanilla JavaScript and HTML5 Canvas—no frameworks.
+* **Distinction:** Not affiliated with Securitize—created purely for entertainment and nostalgia. A tribute to both retro gaming and crypto innovation.
+
+---
+
+### [FormGuard - Enhanced](https://github.com/MisterSponz/FormGuard)
+An **IRS tax form validation & processing system** with comprehensive support for multiple form types.
+* **Stack:** Python, FastAPI, React, AWS Textract, SQLAlchemy, Material-UI
+* **Purpose:** To automate the processing and validation of IRS tax forms including W-8BEN, W-8BEN-E, W-9, W-8IMY, and Self-Certification forms.
+* **Features:**
+    * **Intelligent OCR:** Integrates **AWS Textract** for accurate text extraction from tax documents.
+    * **Custom Validation:** Implements form-specific validation logic for each supported IRS form type.
+    * **Modern UI:** Responsive React interface with Material-UI components for document management.
+    * **Batch Processing:** Supports multi-document upload with real-time processing status tracking.
+    * **Dashboard Analytics:** Comprehensive reporting capabilities with advanced filtering and pagination.
+    * **Authentication:** JWT-based user authentication and authorization.
+    * **Simulation Mode:** Testing capability without incurring AWS costs.
+* **Distinction:** Enterprise-ready tax compliance platform that streamlines workflows with automated validation and comprehensive reporting.
+
+---
+
+### [Social Stash](https://github.com/ponya5/social-stash)
+A **personal social media content organizer** that helps you save, categorize, and rediscover valuable posts from across platforms.
+* **Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, TanStack Query, React Router v7
+* **Purpose:** To provide a centralized hub for organizing and managing saved social media content across multiple platforms.
+* **Features:**
+    * **Multi-Platform Support:** Save posts from X (Twitter), LinkedIn, Instagram, YouTube, TikTok, and Facebook.
+    * **Smart Organization:** Custom categories and sub-categories for efficient content management.
+    * **Favorites & Archive:** Mark favorites for quick access and archive posts to keep dashboard clean.
+    * **Search & Filter:** Powerful search and filtering capabilities to rediscover content.
+    * **Dark/Light Mode:** Full theme support for comfortable viewing.
+    * **PWA Ready:** Install on mobile and desktop as a progressive web app.
+    * **Modern Stack:** Built with latest React patterns, Supabase for backend, and TanStack Query for state management.
+* **Distinction:** A practical solution for content creators, researchers, and social media enthusiasts who need to organize valuable content across platforms.
+
+---
+
 ### [PoMusic 2.0](https://github.com/ponya5/PoMusic)
 An **AI-powered music creation platform** for electronic music, emphasizing live coding and synthesis.
 * **Stack:** React, TypeScript, Electron, Strudel.js, FastAPI (Python)
