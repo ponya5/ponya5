@@ -27,6 +27,8 @@ QA & Devlivery Engineering Leader | AI Innovator | Multi-Agent Systems Builder |
 
 ## 🧑‍🚀 About Me
 
+🌐 **[www.daniel-shalom.com](https://www.daniel-shalom.com)**
+
 QA & Release leader with 15+ years driving efficiency, scalability, and quality across complex, global software programs. I bring vast managerial experience leading cross-functional R&D and multi-site teams, aligning release strategies to business goals, and building robust QA and delivery infrastructures.
 
 A forward-thinking AI implementor, I leverage intelligent automation, multi-agent AI systems, and data-driven tools to streamline QA, optimize delivery workflows, and elevate team performance. I operate with clear OKRs and KPIs for continuous monitoring—ensuring visibility, accountability, and measurable outcomes throughout the delivery lifecycle.
@@ -62,7 +64,7 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
 ---
 
 ### 🤖 Generative AI for Everyone  
-<img width="80" alt="DeepLearning.AI Logo" src="https://media.licdn.com/dms/image/v2/C560BAQEHKffoI8RwIQ/company-logo_100_100/company-logo_100_100/0/1630672537710/deeplearningai_logo?e=1766620800&v=beta&t=LKeFQB8tffNlwEayIxUVAWyKwEOkLQgLSusjcDZOVN8" />
+<img width="80" alt="DeepLearning.AI Logo" src="https://opencourser.com/collection/py6dgp/deeplearning-ai-tensorflow-developer" />
 
 **Issuer:** DeepLearning.AI  
 **Issued:** Sep 2025  
