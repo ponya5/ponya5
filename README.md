@@ -133,6 +133,8 @@ Empower every team to work like they have 10× more time and 10× more ability.
 
 ### 🧪 Personal AI Projects
 
+*These are just a few preferred projects — explore my GitHub for many more!*
+
 | Project | Purpose (1-Line) | Tech Stack | Distinction |
 |--------|------------------|------------|-------------|
 | **PathPilot Tutorial Generator** | Converts any topic into a fully produced tutorial video (script → visuals → narration → MP4). | Python, Next.js, MoviePy, DALL-E 3, ElevenLabs, GPT-4 | End-to-end AI video production with multi-agent orchestration. |
@@ -140,7 +142,7 @@ Empower every team to work like they have 10× more time and 10× more ability.
 | **Large Scale Migration Tool** | Full-stack document automation tool for bulk financial document retrieval from web portals. | Python, FastAPI, React, TypeScript, Playwright, Tailwind CSS, SQLite | Browser automation with multi-portal support, customizable filtering, and AWS S3 integration. |
 | **The Tokenizer: Rise of the Ledgers** | Retro 2D platform shooter through cryptocurrency tokenization history (2017-2025). | JavaScript, HTML5 Canvas | 6 eras, SPiCE token collection, boss battles, global leaderboard, pixel art graphics. |
 | **FormGuard** | IRS tax form validation & processing system (W-8BEN, W-8BEN-E, W-9, W-8IMY, Self-Cert). | Python, FastAPI, React, AWS Textract, SQLAlchemy, Material-UI | Automated OCR extraction, custom validation logic, batch processing, JWT auth, simulation mode. |
-| **Social Stash** | Personal social media content organizer for saving and categorizing posts across platforms. | React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, TanStack Query | Multi-platform support (X, LinkedIn, Instagram, YouTube, TikTok, Facebook), PWA, dark/light mode. |
+| **Social Stash** | Personal social media content organizer for saving and categorizing posts across platforms. | React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, TanStack Query | Multi-platform support (X, LinkedIn, Instagram, YouTube, TikTok, Facebook), PWA, 1000+ registered users. |
 | **PoMusic 2.0** | AI-powered electronic music creation using live coding and synthesis. | React, Electron, Strudel.js, FastAPI | Blends live coding with real-time AI audio manipulation. |
 | **VDock** | Dashboard for orchestrating agents, scripts, and containers remotely. | Vue, Python, TypeScript | Universal control center for AI agents, VMs, and microservices. |
 | **aiMux** | Routes & automates multimodal AI workflows in real time. | Python, JavaScript | Low-latency, scalable agent-first orchestration layer. |
@@ -203,7 +205,7 @@ A **retro 2D platform shooter game** that takes players on a journey through the
 
 ---
 
-### [FormGuard - Enhanced](https://github.com/MisterSponz/FormGuard)
+### [FormGuard](https://github.com/MisterSponz/FormGuard)
 An **IRS tax form validation & processing system** with comprehensive support for multiple form types.
 * **Stack:** Python, FastAPI, React, AWS Textract, SQLAlchemy, Material-UI
 * **Purpose:** To automate the processing and validation of IRS tax forms including W-8BEN, W-8BEN-E, W-9, W-8IMY, and Self-Certification forms.
@@ -215,12 +217,13 @@ An **IRS tax form validation & processing system** with comprehensive support fo
     * **Dashboard Analytics:** Comprehensive reporting capabilities with advanced filtering and pagination.
     * **Authentication:** JWT-based user authentication and authorization.
     * **Simulation Mode:** Testing capability without incurring AWS costs.
-* **Distinction:** Enterprise-ready tax compliance platform that streamlines workflows with automated validation and comprehensive reporting.
+    * **UX & Reliability:** Features real-time progress tracking, built-in PDF preview with zoom, analytics dashboards, CSV export, and 100% test coverage.
+* **Distinction:** Enterprise-ready, production-ready tax compliance platform that streamlines workflows with automated validation and comprehensive reporting.
 
 ---
 
 ### [Social Stash](https://github.com/ponya5/social-stash)
-A **personal social media content organizer** that helps you save, categorize, and rediscover valuable posts from across platforms.
+A **personal social media content organizer** that helps you save, categorize, and rediscover valuable posts from across platforms. **1000+ registered users.**
 * **Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn/ui, Supabase, TanStack Query, React Router v7
 * **Purpose:** To provide a centralized hub for organizing and managing saved social media content across multiple platforms.
 * **Features:**
@@ -231,7 +234,7 @@ A **personal social media content organizer** that helps you save, categorize, a
     * **Dark/Light Mode:** Full theme support for comfortable viewing.
     * **PWA Ready:** Install on mobile and desktop as a progressive web app.
     * **Modern Stack:** Built with latest React patterns, Supabase for backend, and TanStack Query for state management.
-* **Distinction:** A practical solution for content creators, researchers, and social media enthusiasts who need to organize valuable content across platforms.
+* **Distinction:** A practical solution for content creators, researchers, and social media enthusiasts who need to organize valuable content across platforms. Growing user base demonstrates real-world adoption.
 
 ---
 
@@ -245,18 +248,6 @@ An **AI-powered music creation platform** for electronic music, emphasizing live
     * **AI Backend:** FastAPI handles AI sample search, pattern evaluation, and audio processing.
     * **Interface:** Provides a live coding UI with pattern transformations, Euclidean rhythms, and supports **voice commands** for hands-free control.
 * **Distinction:** A unique synthesis of established live coding techniques and cutting-edge, real-time AI audio manipulation.
-
----
-
-### [FormGuard](https://github.com/MisterSponz/FormGuard)
-A comprehensive **multi-document tax form verification system** with intelligent OCR and batch processing.
-* **Stack:** Python (Streamlit), React, AWS Textract
-* **Purpose:** To streamline tax document compliance workflows (starting with W-8BEN/W-8BEN-E) with enterprise-grade reliability.
-* **Features:**
-    * **Batch Validation:** Processes multiple PDF tax forms simultaneously, leveraging **AWS Textract** for intelligent OCR text extraction and automated validation.
-    * **Supported Forms:** Fully validates W-8BEN and W-8BEN-E, with extensible placeholders for W-9, W-8IMY, and others.
-    * **UX & Reliability:** Features real-time progress tracking, built-in PDF preview with zoom, analytics dashboards, CSV export, and 100% test coverage.
-* **Distinction:** A production-ready, full-stack compliance tool designed for high reliability and a superior user experience.
 
 ---
 ### [VDock](https://github.com/ponya5/VDock)
