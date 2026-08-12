@@ -12,7 +12,9 @@
        style="border-radius: 50%; mask-image: radial-gradient(circle, white 60%, transparent 100%); -webkit-mask-image: radial-gradient(circle, white 60%, transparent 100%);" />
 </div>
 
-### Head of AI & Delivery/QA | Site Management @ Securitize — AI Innovator · Multi-Agent Systems Builder · Automation Architect
+### Head of AI & Delivery/QA | Site Management @ Securitize<br/>AI Innovator · Multi-Agent Systems Builder · Automation Architect
+
+## 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,9 +23,11 @@
   <a href="https://www.instagram.com/daniel.shalom.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<br/>
+
 <p align="left">
   <img src="https://img.shields.io/badge/AI%20Innovator-%F0%9F%A4%96-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/QA%20%26%20Release%20Leader-%F0%9F%9A%80-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QA%20%26%20AI%20Leader-%F0%9F%9A%80-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-%F0%9F%94%AE-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20Architect-%E2%9A%99%EF%B8%8F-teal?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Securitize-%F0%9F%92%8E-black?style=for-the-badge" />
@@ -60,7 +64,7 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
 **[VDock2 — Virtual Stream Deck](https://github.com/ponya5/VDock2)**
 Browser-based control deck for custom button layouts, workflow automation, and live system monitoring — 26+ animated dashboard backgrounds included.
 
-<a href="https://github.com/ponya5/VDock2"><img src="assets/vdock2-demo.gif" width="100%" /></a>
+<a href="assets/vdock2-demo.gif"><img src="assets/vdock2-demo.gif" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +72,7 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 **[Trip Planner Dashboard](https://github.com/ponya5/trip-planner-dashboard)**
 A Claude/Cursor AI skill that turns "plan me a trip" into one self-contained HTML dashboard — live-routed map with animated drive playback, itinerary, hotels, budget, and safety fallbacks. No server, no API key, no build.
 
-<a href="https://github.com/ponya5/trip-planner-dashboard"><img src="assets/trip-planner-demo.gif" width="100%" /></a>
+<a href="assets/trip-planner-demo.gif"><img src="assets/trip-planner-demo.gif" width="100%" /></a>
 
 </td>
 </tr>
@@ -78,7 +82,7 @@ A Claude/Cursor AI skill that turns "plan me a trip" into one self-contained HTM
 **[Social Stash](https://github.com/ponya5/socialstash)**
 Personal social-media content organizer — save and categorize posts across X, LinkedIn, Instagram, YouTube, TikTok, and Facebook, with favorites, search, and a PWA install. 1,000+ registered users.
 
-<a href="https://github.com/ponya5/socialstash"><img src="assets/socialstash-demo.gif" width="100%" /></a>
+<a href="assets/socialstash-demo.gif"><img src="assets/socialstash-demo.gif" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -86,7 +90,7 @@ Personal social-media content organizer — save and categorize posts across X, 
 **[Beacon](https://github.com/ponya5/beaconai)**
 Free, Hebrew-language platform aggregating every major Israeli tech event — conferences, webinars, meetups — into one searchable, weekly-updated dashboard with filters and calendar view.
 
-<a href="https://github.com/ponya5/beaconai"><img src="assets/beacon-demo.gif" width="100%" /></a>
+<a href="assets/beacon-demo.gif"><img src="assets/beacon-demo.gif" width="100%" /></a>
 
 </td>
 </tr>
@@ -96,7 +100,7 @@ Free, Hebrew-language platform aggregating every major Israeli tech event — co
 **[PathPilot Tutorial Generator](https://github.com/ponya5/PathPilot-Tutorial-Generator)**
 End-to-end AI video pipeline — turns any topic into a fully produced tutorial (script → visuals → narration → MP4) by chaining GPT-4, DALL-E 3, and ElevenLabs, orchestrated through a Next.js review UI.
 
-<a href="https://github.com/ponya5/PathPilot-Tutorial-Generator"><img src="assets/pathpilot-demo.gif" width="100%" /></a>
+<a href="assets/pathpilot-demo.gif"><img src="assets/pathpilot-demo.gif" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -104,7 +108,7 @@ End-to-end AI video pipeline — turns any topic into a fully produced tutorial 
 **[PathPilot (Monorepo)](https://github.com/MisterSponz/PathPilot)**
 Unified ecosystem of AI apps for education, analytics, and automation — Course Analyzer, AI Feedz, Training Tracker, and Log Monitor, sharing a common auth/config/UI foundation.
 
-<a href="https://github.com/MisterSponz/PathPilot"><img src="assets/pathpilot-monorepo-demo.gif" width="100%" /></a>
+<a href="assets/pathpilot-monorepo-demo.gif"><img src="assets/pathpilot-monorepo-demo.gif" width="100%" /></a>
 
 </td>
 </tr>
@@ -114,7 +118,7 @@ Unified ecosystem of AI apps for education, analytics, and automation — Course
 **[The Tokenizer: Rise of the Ledgers](https://github.com/ponya5/Tokenizer)**
 Retro 2D platform shooter through crypto-tokenization history (2017–2025) — 6 historical eras, boss battles, and a global leaderboard, built entirely in vanilla JS + HTML5 Canvas.
 
-<a href="https://github.com/ponya5/Tokenizer"><img src="assets/tokenizer-demo.gif" width="100%" /></a>
+<a href="assets/tokenizer-demo.gif"><img src="assets/tokenizer-demo.gif" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -122,7 +126,7 @@ Retro 2D platform shooter through crypto-tokenization history (2017–2025) — 
 **[Take Your Time (IDE Arcade)](https://github.com/ponya5/TakeYourTime_IDE_Arcade)**
 VS Code extension that turns idle build/AI-agent wait time into arcade breaks — launches sandboxed game tabs right inside the IDE without interrupting your work.
 
-<a href="https://github.com/ponya5/TakeYourTime_IDE_Arcade"><img src="assets/takeyourtime-demo.gif" width="100%" /></a>
+<a href="assets/takeyourtime-demo.gif"><img src="assets/takeyourtime-demo.gif" width="100%" /></a>
 
 </td>
 </tr>
@@ -132,7 +136,7 @@ VS Code extension that turns idle build/AI-agent wait time into arcade breaks �
 **[Autonoma](https://github.com/ponya5/Autonoma)**
 Autonomous, state-aware web security crawler — maps every page and interactive element of an app, tests each one for functional bugs and OWASP vulnerabilities, and reports findings through a live React control console.
 
-<a href="https://github.com/ponya5/Autonoma"><img src="assets/autonoma-demo.gif" width="100%" /></a>
+<a href="assets/autonoma-screenshot.png"><img src="assets/autonoma-screenshot.png" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +144,7 @@ Autonomous, state-aware web security crawler — maps every page and interactive
 **[Large-Scale Document Migration Tool](https://github.com/ponya5/SFS_Migration_Tool)**
 Full-stack document automation tool for bulk financial-document retrieval from web portals — Playwright-driven downloads, customizable filtering, and optional AWS S3 integration.
 
-<a href="https://github.com/ponya5/SFS_Migration_Tool"><img src="assets/sfs-migration-demo.gif" width="100%" /></a>
+<a href="assets/sfs-migration-screenshot.png"><img src="assets/sfs-migration-screenshot.png" width="100%" /></a>
 
 </td>
 </tr>
@@ -150,7 +154,7 @@ Full-stack document automation tool for bulk financial-document retrieval from w
 **[ClaudeGhost](https://github.com/ponya5/ClaudeGhost)**
 Headless supervisor for the Claude Code CLI — runs Claude autonomously with configurable autonomy levels, approves/blocks risky commands from your phone via Telegram, and shows a live Rich terminal dashboard.
 
-<a href="https://github.com/ponya5/ClaudeGhost"><img src="assets/claudeghost-demo.gif" width="100%" /></a>
+<a href="assets/claudeghost-demo.gif"><img src="assets/claudeghost-demo.gif" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -160,24 +164,6 @@ Headless supervisor for the Claude Code CLI — runs Claude autonomously with co
 </td>
 </tr>
 </table>
-
----
-
-## 🧰 What I Build
-
-*These are just a few of my projects — explore my GitHub for many more!*
-
-| Project | Purpose | Stack |
-|---|---|---|
-| [FormGuard](https://github.com/MisterSponz/FormGuard) | IRS tax form validation & processing (W-8BEN, W-8BEN-E, W-9, W-8IMY) with OCR | Python, FastAPI, React, AWS Textract, SQLAlchemy |
-| [PoMusic 2.0](https://github.com/ponya5/PoMusic) | AI-powered live-coding electronic music creation | React, Electron, Strudel.js, FastAPI |
-| [aiMux](https://github.com/ponya5/aiMux) | Routes & automates multimodal AI workflows in real time | Python, JavaScript |
-| [CrewAI Business Analyst](https://github.com/ponya5/crewai-business-analyst) | Autonomous agent producing financial & business research reports | Python, JS, HTML, CSS |
-| [JobTracker](https://github.com/ponya5/JobTracker) | Kanban/timeline dashboard for job-search tracking & analytics | TypeScript, JavaScript, HTML, CSS |
-| [Base44 – Geva Seats](https://geva-seats-8418c0d3.base44.app/) | Smart seat/amenity reservation system for buildings | Base44 (VibeCoding) |
-| [Base44 – Tower 6](https://6-594f9f42.base44.app/) | Resident portal for announcements, maintenance & shared areas | Base44 (VibeCoding) |
-
-*Explore these and more on my GitHub for the latest automation, AI, and developer enablement solutions. Open issues and contributions welcome!*
 
 ---
 
@@ -281,25 +267,6 @@ A full-stack AI engineering fellowship covering LLM internals & post-training (R
 **Issuer:** The Israel Chamber of Information Systems Analysts · **Issued:** Sep 2013
 
 Also: 10+ years as a proficient Jira Administrator
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/ponya5">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.daniel-shalom.com">
-    <img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=googlechrome" />
-  </a>
-  <a href="https://www.instagram.com/daniel.shalom.ai/">
-    <img src="https://img.shields.io/badge/Instagram-@daniel.shalom.ai-purple?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
 
 ---
 
