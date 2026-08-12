@@ -230,27 +230,27 @@ My mission: empower every team to work like they have 10x more time and 10x more
 <table>
 <tr>
 <td align="center" width="16.6%">
-<img src="assets/Certifications/nebius-fellowship-badge.png" width="80"/><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/ai-performance-engineering-program-completed-badge"><img src="assets/Certifications/nebius-fellowship-badge.png" width="80"/></a><br/>
 <sub><b>Fellowship</b><br/>Dec 2026</sub>
 </td>
 <td align="center" width="16.6%">
-<img src="assets/Certifications/nebius-ai-leader-badge.png" width="80"/><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/nebius-agentic-ai-builder-certification"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="80"/></a><br/>
 <sub><b>AI Leader</b><br/>Aug 2026</sub>
 </td>
 <td align="center" width="16.6%">
-<img src="assets/Certifications/nebius-ai-agents-badge.png" width="80"/><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/ai-agents-course-completed-badge"><img src="assets/Certifications/nebius-ai-agents-badge.png" width="80"/></a><br/>
 <sub><b>AI Agents</b><br/>Jun 2026</sub>
 </td>
 <td align="center" width="16.6%">
-<img src="assets/Certifications/nebius-performance-engineering-badge.png" width="80"/><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/performance-engineering-course-completed-badge"><img src="assets/Certifications/nebius-performance-engineering-badge.png" width="80"/></a><br/>
 <sub><b>Performance Eng.</b><br/>Sep 2026</sub>
 </td>
 <td align="center" width="16.6%">
-<img src="assets/Certifications/nebius-llm-post-training-badge.png" width="80"/><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/llm-post-training-course-completed-badge"><img src="assets/Certifications/nebius-llm-post-training-badge.png" width="80"/></a><br/>
 <sub><b>LLM Post-Training</b><br/>Oct 2026</sub>
 </td>
 <td align="center" width="16.6%">
-<img src="assets/Certifications/nebius-mlops-badge.png" width="80"/><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/mlops-course-completed-badge"><img src="assets/Certifications/nebius-mlops-badge.png" width="80"/></a><br/>
 <sub><b>MLOps</b><br/>Jul 2026</sub>
 </td>
 </tr>
