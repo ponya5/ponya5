@@ -14,7 +14,12 @@
 
 ### Head of AI · Head of Delivery & QA | Site Management @ Securitize<br/>AI Innovator · Multi-Agent Systems Builder · Automation Architect
 
-## <img src="assets/icons/social-media.gif" width="32" /> Let's Connect
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/social-media.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Let's Connect</h2></td>
+</tr>
+</table>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -35,7 +40,12 @@
 
 ---
 
-## <img src="assets/icons/Philosophy.gif" width="32" /> Philosophy
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/Philosophy.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Philosophy</h2></td>
+</tr>
+</table>
 
 AI is not just a tool. It's a productivity multiplier, a creativity amplifier, and a new layer of abstraction for building software.
 
@@ -43,7 +53,12 @@ My mission is to empower every team to work like they have 10x more time and 10x
 
 ---
 
-## <img src="assets/icons/aboutMe.gif" width="32" /> About Me
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/aboutMe.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">About Me</h2></td>
+</tr>
+</table>
 
 QA, Delivery & AI leader with 20+ years in QA and delivery and 3+ years in AI development, driving efficiency, scalability, and quality across complex, global software programs, from hands-on QA automation at Plarium and Safecharge to leading Site Management, R&D delivery, and company-wide AI adoption at Securitize today. I bring deep managerial experience leading cross-functional R&D and multi-site teams, aligning release strategies to business goals, and building robust QA, delivery, and AI infrastructures.
 
@@ -69,7 +84,12 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
 
 ---
 
-## <img src="assets/icons/fire.gif" width="32" /> Featured
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/fire.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Featured</h2></td>
+</tr>
+</table>
 
 Professional tools and platforms built for real-world impact.
 
@@ -142,7 +162,12 @@ Headless supervisor for the Claude Code CLI that runs Claude autonomously with c
 
 ---
 
-## <img src="assets/icons/gamepad.gif" width="32" /> Fun Projects
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/gamepad.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Fun Projects</h2></td>
+</tr>
+</table>
 
 Side projects, experiments, and creative builds.
 
@@ -191,7 +216,12 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-## <img src="assets/icons/coding.gif" width="32" /> Tech Stack
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/coding.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Tech Stack</h2></td>
+</tr>
+</table>
 
 **Code**
 
@@ -218,7 +248,12 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-## <img src="assets/icons/investigation.gif" width="32" /> Currently Exploring
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/investigation.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Currently Exploring</h2></td>
+</tr>
+</table>
 
 - Multi-agent planning, delegation, and memory
 - Autonomous engineering teams
@@ -228,7 +263,12 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-## <img src="assets/icons/certificate.gif" width="32" /> Certifications
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/certificate.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Certifications</h2></td>
+</tr>
+</table>
 
 ### 🧠 Nebius Academy, AI Performance Engineering Fellowship (2026)
 
@@ -289,7 +329,12 @@ Also, 10+ years as a proficient Jira Administrator
 
 ---
 
-## <img src="assets/icons/fun-fact.gif" width="32" /> Fun Facts
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="72" valign="middle" style="border: none;"><img src="assets/icons/fun-fact.gif" width="64" alt="" /></td>
+<td valign="middle" style="border: none;"><h2 style="margin: 0; padding: 0; border: none; border-bottom: none;">Fun Facts</h2></td>
+</tr>
+</table>
 
 - I build AI tools at 1 AM because that's when the best ideas arrive
 - I test every new model the minute it launches
