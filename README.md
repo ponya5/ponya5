@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="assets/icons/Daniel%20fire.gif" alt="Daniel Shalom" width="420" />
 </p>
 <div align="center" style="
