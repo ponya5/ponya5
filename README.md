@@ -14,7 +14,7 @@
 
 ### Head of AI · Head of Delivery & QA | Site Management @ Securitize<br/>AI Innovator · Multi-Agent Systems Builder · Automation Architect
 
-## 📫 Let's Connect
+## <img src="assets/icons/social-media.gif" width="32" /> Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -31,12 +31,11 @@
   <img src="https://img.shields.io/badge/Delivery%20%26%20QA%20Leader-%F0%9F%9A%80-navy?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-%F0%9F%94%AE-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation%20Architect-%E2%9A%99%EF%B8%8F-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Securitize-%F0%9F%92%8E-black?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 Philosophy
+## <img src="assets/icons/Philosophy.gif" width="32" /> Philosophy
 
 AI is not just a tool. It's a productivity multiplier, a creativity amplifier, and a new layer of abstraction for building software.
 
@@ -44,7 +43,7 @@ My mission is to empower every team to work like they have 10x more time and 10x
 
 ---
 
-## 🧑‍🚀 About Me
+## <img src="assets/icons/aboutMe.gif" width="32" /> About Me
 
 QA, Delivery & AI leader with 20+ years in QA and delivery and 3+ years in AI development, driving efficiency, scalability, and quality across complex, global software programs, from hands-on QA automation at Plarium and Safecharge to leading Site Management, R&D delivery, and company-wide AI adoption at Securitize today. I bring deep managerial experience leading cross-functional R&D and multi-site teams, aligning release strategies to business goals, and building robust QA, delivery, and AI infrastructures.
 
@@ -70,7 +69,7 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
 
 ---
 
-## 🔥 Featured
+## <img src="assets/icons/fire.gif" width="32" /> Featured
 
 Professional tools and platforms built for real-world impact.
 
@@ -143,7 +142,7 @@ Headless supervisor for the Claude Code CLI that runs Claude autonomously with c
 
 ---
 
-## 🎮 Fun Projects
+## <img src="assets/icons/gamepad.gif" width="32" /> Fun Projects
 
 Side projects, experiments, and creative builds.
 
@@ -192,7 +191,7 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="assets/icons/coding.gif" width="32" /> Tech Stack
 
 **Code**
 
@@ -219,7 +218,7 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-## 🌱 Currently Exploring
+## <img src="assets/icons/investigation.gif" width="32" /> Currently Exploring
 
 - Multi-agent planning, delegation, and memory
 - Autonomous engineering teams
@@ -229,7 +228,7 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-## 📜 Certifications & Education
+## <img src="assets/icons/certificate.gif" width="32" /> Certifications
 
 ### 🧠 Nebius Academy, AI Performance Engineering Fellowship (2026)
 
@@ -290,7 +289,7 @@ Also, 10+ years as a proficient Jira Administrator
 
 ---
 
-## ⚡ Fun Facts
+## <img src="assets/icons/fun-fact.gif" width="32" /> Fun Facts
 
 - I build AI tools at 1 AM because that's when the best ideas arrive
 - I test every new model the minute it launches
