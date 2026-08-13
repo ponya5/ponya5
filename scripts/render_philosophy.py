@@ -3,7 +3,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-FONT_PATH = REPO_ROOT / "assets" / "fonts" / "Brotheric-Regular.otf"
+FONT_PATH = REPO_ROOT / "assets" / "fonts" / "FenwickWoodtype.ttf"
 OUTPUT_PATH = REPO_ROOT / "assets" / "philosophy.png"
 
 TEXT_COLOR = (212, 197, 169, 255)
