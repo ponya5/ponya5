@@ -1,5 +1,6 @@
-# 🌐 Daniel Shalom
-
+<p align="center">
+  <img src="assets/icons/Daniel%20fire.gif" alt="Daniel Shalom" width="420" />
+</p>
 <div align="center" style="
   width: fit-content;
   margin: 0 auto;
