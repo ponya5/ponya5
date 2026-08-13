@@ -44,9 +44,13 @@
   <b style="font-size: 1.35em; margin-left: 10px;">Philosophy</b>
 </p>
 
-AI is not just a tool. It's a productivity multiplier, a creativity amplifier, and a new layer of abstraction for building software.
+<blockquote style="font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, 'Times New Roman', serif; font-style: italic; font-size: 1.08em; line-height: 1.75; color: #d4c5a9; border-left: 4px solid #8b6914; padding: 8px 0 8px 20px; margin: 12px 0 16px 0;">
 
-My mission is to empower every team to work like they have 10x more time and 10x more ability.
+<p style="margin: 0 0 14px 0;">AI is not just a tool. It's a productivity multiplier, a creativity amplifier, and a new layer of abstraction for building software.</p>
+
+<p style="margin: 0;">My mission is to empower every team to work like they have 10x more time and 10x more ability.</p>
+
+</blockquote>
 
 ---
 
