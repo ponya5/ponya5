@@ -1,6 +1,6 @@
-<p align="left">
+<div align="left">
   <img src="assets/icons/Daniel%20fire.gif" alt="Daniel Shalom" width="420" />
-</p>
+</div>
 <div align="center" style="
   width: fit-content;
   margin: 0 auto;
@@ -15,9 +15,9 @@
 
 ### Head of AI · Head of Delivery & QA | Site Management @ Securitize<br/>AI Innovator · Multi-Agent Systems Builder · Automation Architect
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/social-media.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Let's Connect</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/social-media.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Let's Connect</b>
 </p>
 
 <p align="left">
@@ -39,9 +39,9 @@
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/Philosophy.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Philosophy</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/Philosophy.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Philosophy</b>
 </p>
 
 AI is not just a tool. It's a productivity multiplier, a creativity amplifier, and a new layer of abstraction for building software.
@@ -50,9 +50,9 @@ My mission is to empower every team to work like they have 10x more time and 10x
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/aboutMe.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">About Me</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/aboutMe.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">About Me</b>
 </p>
 
 QA, Delivery & AI leader with 20+ years in QA and delivery and 3+ years in AI development, driving efficiency, scalability, and quality across complex, global software programs, from hands-on QA automation at Plarium and Safecharge to leading Site Management, R&D delivery, and company-wide AI adoption at Securitize today. I bring deep managerial experience leading cross-functional R&D and multi-site teams, aligning release strategies to business goals, and building robust QA, delivery, and AI infrastructures.
@@ -79,9 +79,9 @@ A forward-thinking AI implementor, I leverage intelligent automation, multi-agen
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/fire.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Featured</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/fire.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Featured</b>
 </p>
 
 Professional tools and platforms built for real-world impact.
@@ -155,9 +155,9 @@ Headless supervisor for the Claude Code CLI that runs Claude autonomously with c
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/gamepad.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Fun Projects</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/gamepad.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Fun Projects</b>
 </p>
 
 Side projects, experiments, and creative builds.
@@ -207,9 +207,9 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/coding.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Tech Stack</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/coding.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Tech Stack</b>
 </p>
 
 **Code**
@@ -237,9 +237,9 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/investigation.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Currently Exploring</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/investigation.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Currently Exploring</b>
 </p>
 
 - Multi-agent planning, delegation, and memory
@@ -250,9 +250,9 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/certificate.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Certifications</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/certificate.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Certifications</b>
 </p>
 
 ### 🧠 Nebius Academy, AI Performance Engineering Fellowship (2026)
@@ -314,9 +314,9 @@ Also, 10+ years as a proficient Jira Administrator
 
 ---
 
-<p align="left" style="line-height: 64px; margin: 0 0 8px 0;">
-  <img src="assets/icons/fun-fact.gif" width="64" height="64" style="vertical-align: middle; margin-right: 12px;" alt="" />
-  <span style="vertical-align: middle; font-size: 1.4em; font-weight: 700;">Fun Facts</span>
+<p align="left" style="margin: 0 0 8px 0;">
+  <img src="assets/icons/fun-fact.gif" width="64" height="64" align="middle" alt="" />
+  <b style="font-size: 1.35em; margin-left: 10px;">Fun Facts</b>
 </p>
 
 - I build AI tools at 1 AM because that's when the best ideas arrive
