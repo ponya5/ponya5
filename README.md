@@ -244,6 +244,15 @@ My mission: empower every team to work like they have 10x more time and 10x more
 
 A full-stack AI engineering fellowship covering LLM internals & post-training (RLHF, RLVR, SFT), agentic systems on top of third-party APIs (multi-agent systems, RAG, LLM APIs), performance engineering (CUDA, custom kernels, quantization, speculative decoding), and MLOps (experiment management, deployment, monitoring, scaling) — capped by the **Nebius AI Leader** certification for AI product strategy and vendor evaluation.
 
+### 🤖 Nebius Agentic AI Builder Certification
+<img width="80" alt="Nebius Agentic AI Builder Badge" src="assets/Certifications/Agentic%20AI%20Builder.png" />
+
+**Issuer:** Nebius Academy · **Type:** Certification · **Level:** Intermediate · **Paid**
+
+[🔗 Show Credential](https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in?t=tk8808)
+
+Nebius Agentic AI Builder is a professional able to create AI-powered workflows and applications by integrating AI models via Nebius Token Factory. They build end-to-end agentic workflows and RAG pipelines, apply fine-tuning techniques, and connect agents to external systems such as Tavily web search and other tools.
+
 ### 🧠 AI Agents Fundamentals
 <img width="80" alt="Hugging Face Logo" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
 
