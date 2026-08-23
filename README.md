@@ -259,32 +259,32 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 
 <table>
 <tr>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/2d8c7b29-67c3-4606-9cfe-563d2f8a23cb/linked_in_profile"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/2d8c7b29-67c3-4606-9cfe-563d2f8a23cb/linked_in_profile"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="100" height="100"/></a><br/>
 <sub><b>AI Leader</b><br/>Aug 2026</sub>
 </td>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in_profile"><img src="assets/Certifications/Agentic%20AI%20Builder.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in_profile"><img src="assets/Certifications/Agentic%20AI%20Builder.png" width="100" height="100"/></a><br/>
 <sub><b>AI Builder</b><br/>Aug 2026</sub>
 </td>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/d5cd9256-2b32-4128-800a-a5fda7c7c4d2/linked_in_profile"><img src="assets/Certifications/nebius-fellowship-badge.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/d5cd9256-2b32-4128-800a-a5fda7c7c4d2/linked_in_profile"><img src="assets/Certifications/nebius-fellowship-badge.png" width="100" height="100"/></a><br/>
 <sub><b>Fellowship</b><br/>Dec 2026</sub>
 </td>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/4075c446-f8e3-4974-bc91-1f3d06b34b62/linked_in_profile"><img src="assets/Certifications/nebius-ai-agents-badge.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/4075c446-f8e3-4974-bc91-1f3d06b34b62/linked_in_profile"><img src="assets/Certifications/nebius-ai-agents-badge.png" width="100" height="100"/></a><br/>
 <sub><b>AI Agents</b><br/>Jun 2026</sub>
 </td>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/3f07e824-0945-47a9-9123-1113cc5007dc/linked_in_profile"><img src="assets/Certifications/nebius-performance-engineering-badge.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/3f07e824-0945-47a9-9123-1113cc5007dc/linked_in_profile"><img src="assets/Certifications/nebius-performance-engineering-badge.png" width="100" height="100"/></a><br/>
 <sub><b>Performance Eng.</b><br/>Sep 2026</sub>
 </td>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/803fd5c2-c2af-4593-a3da-48ca39731b71/linked_in_profile"><img src="assets/Certifications/nebius-llm-post-training-badge.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/803fd5c2-c2af-4593-a3da-48ca39731b71/linked_in_profile"><img src="assets/Certifications/nebius-llm-post-training-badge.png" width="100" height="100"/></a><br/>
 <sub><b>LLM Post-Training</b><br/>Oct 2026</sub>
 </td>
-<td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/fcbd4070-a913-41e9-bde3-da34ace3ad62/linked_in_profile"><img src="assets/Certifications/nebius-mlops-badge.png" width="80" height="80"/></a><br/>
+<td align="center" valign="top" width="14.2%">
+<a href="https://www.credly.com/badges/fcbd4070-a913-41e9-bde3-da34ace3ad62/linked_in_profile"><img src="assets/Certifications/nebius-mlops-badge.png" width="100" height="100"/></a><br/>
 <sub><b>MLOps</b><br/>Jul 2026</sub>
 </td>
 </tr>
