@@ -260,31 +260,31 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 <table>
 <tr>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/org/nebius-academy/badge/nebius-ai-leader-certification"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="80"/></a><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/nebius-ai-leader-certification"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="80" height="80"/></a><br/>
 <sub><b>AI Leader</b><br/>Aug 2026</sub>
 </td>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in?t=tk8808"><img src="assets/Certifications/Agentic%20AI%20Builder.png" width="80"/></a><br/>
+<a href="https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in?t=tk8808"><img src="assets/Certifications/Agentic%20AI%20Builder.png" width="80" height="80"/></a><br/>
 <sub><b>AI Builder</b><br/>Aug 2026</sub>
 </td>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/org/nebius-academy/badge/ai-performance-engineering-program-completed-badge"><img src="assets/Certifications/nebius-fellowship-badge.png" width="80"/></a><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/ai-performance-engineering-program-completed-badge"><img src="assets/Certifications/nebius-fellowship-badge.png" width="80" height="80"/></a><br/>
 <sub><b>Fellowship</b><br/>Dec 2026</sub>
 </td>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/org/nebius-academy/badge/ai-agents-course-completed-badge"><img src="assets/Certifications/nebius-ai-agents-badge.png" width="80"/></a><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/ai-agents-course-completed-badge"><img src="assets/Certifications/nebius-ai-agents-badge.png" width="80" height="80"/></a><br/>
 <sub><b>AI Agents</b><br/>Jun 2026</sub>
 </td>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/org/nebius-academy/badge/performance-engineering-course-completed-badge"><img src="assets/Certifications/nebius-performance-engineering-badge.png" width="80"/></a><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/performance-engineering-course-completed-badge"><img src="assets/Certifications/nebius-performance-engineering-badge.png" width="80" height="80"/></a><br/>
 <sub><b>Performance Eng.</b><br/>Sep 2026</sub>
 </td>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/org/nebius-academy/badge/llm-post-training-course-completed-badge"><img src="assets/Certifications/nebius-llm-post-training-badge.png" width="80"/></a><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/llm-post-training-course-completed-badge"><img src="assets/Certifications/nebius-llm-post-training-badge.png" width="80" height="80"/></a><br/>
 <sub><b>LLM Post-Training</b><br/>Oct 2026</sub>
 </td>
 <td align="center" width="14.2%">
-<a href="https://www.credly.com/org/nebius-academy/badge/mlops-course-completed-badge"><img src="assets/Certifications/nebius-mlops-badge.png" width="80"/></a><br/>
+<a href="https://www.credly.com/org/nebius-academy/badge/mlops-course-completed-badge"><img src="assets/Certifications/nebius-mlops-badge.png" width="80" height="80"/></a><br/>
 <sub><b>MLOps</b><br/>Jul 2026</sub>
 </td>
 </tr>
