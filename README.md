@@ -255,47 +255,42 @@ Browser-based control deck for custom button layouts, workflow automation, and l
   <b style="font-size: 1.35em; margin-left: 10px;">Certifications</b>
 </p>
 
-### 🧠 Nebius Academy, AI Performance Engineering Fellowship (2026)
+### 🧠 Nebius Academy Certifications (2026)
 
 <table>
 <tr>
-<td align="center" width="16.6%">
+<td align="center" width="14.2%">
+<a href="https://www.credly.com/org/nebius-academy/badge/nebius-ai-leader-certification"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="80"/></a><br/>
+<sub><b>AI Leader</b><br/>Aug 2026</sub>
+</td>
+<td align="center" width="14.2%">
+<a href="https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in?t=tk8808"><img src="assets/Certifications/Agentic%20AI%20Builder.png" width="80"/></a><br/>
+<sub><b>AI Builder</b><br/>Aug 2026</sub>
+</td>
+<td align="center" width="14.2%">
 <a href="https://www.credly.com/org/nebius-academy/badge/ai-performance-engineering-program-completed-badge"><img src="assets/Certifications/nebius-fellowship-badge.png" width="80"/></a><br/>
 <sub><b>Fellowship</b><br/>Dec 2026</sub>
 </td>
-<td align="center" width="16.6%">
-<a href="https://www.credly.com/org/nebius-academy/badge/nebius-agentic-ai-builder-certification"><img src="assets/Certifications/nebius-ai-leader-badge.png" width="80"/></a><br/>
-<sub><b>AI Leader</b><br/>Aug 2026</sub>
-</td>
-<td align="center" width="16.6%">
+<td align="center" width="14.2%">
 <a href="https://www.credly.com/org/nebius-academy/badge/ai-agents-course-completed-badge"><img src="assets/Certifications/nebius-ai-agents-badge.png" width="80"/></a><br/>
 <sub><b>AI Agents</b><br/>Jun 2026</sub>
 </td>
-<td align="center" width="16.6%">
+<td align="center" width="14.2%">
 <a href="https://www.credly.com/org/nebius-academy/badge/performance-engineering-course-completed-badge"><img src="assets/Certifications/nebius-performance-engineering-badge.png" width="80"/></a><br/>
 <sub><b>Performance Eng.</b><br/>Sep 2026</sub>
 </td>
-<td align="center" width="16.6%">
+<td align="center" width="14.2%">
 <a href="https://www.credly.com/org/nebius-academy/badge/llm-post-training-course-completed-badge"><img src="assets/Certifications/nebius-llm-post-training-badge.png" width="80"/></a><br/>
 <sub><b>LLM Post-Training</b><br/>Oct 2026</sub>
 </td>
-<td align="center" width="16.6%">
+<td align="center" width="14.2%">
 <a href="https://www.credly.com/org/nebius-academy/badge/mlops-course-completed-badge"><img src="assets/Certifications/nebius-mlops-badge.png" width="80"/></a><br/>
 <sub><b>MLOps</b><br/>Jul 2026</sub>
 </td>
 </tr>
 </table>
 
-A full-stack AI engineering fellowship covering LLM internals & post-training (RLHF, RLVR, SFT), agentic systems on top of third-party APIs (multi-agent systems, RAG, LLM APIs), performance engineering (CUDA, custom kernels, quantization, speculative decoding), and MLOps (experiment management, deployment, monitoring, scaling), capped by the **Nebius AI Leader** certification for AI product strategy and vendor evaluation.
-
-### 🤖 Nebius Agentic AI Builder Certification
-<img width="80" alt="Nebius Agentic AI Builder Badge" src="assets/Certifications/Agentic%20AI%20Builder.png" />
-
-**Issuer:** Nebius Academy · **Type:** Certification · **Level:** Intermediate · **Paid**
-
-[🔗 Show Credential](https://www.credly.com/badges/4bcfb2c9-40de-4774-8c3b-814ba132aa0d/linked_in?t=tk8808)
-
-Nebius Agentic AI Builder is a professional able to create AI-powered workflows and applications by integrating AI models via Nebius Token Factory. They build end-to-end agentic workflows and RAG pipelines, apply fine-tuning techniques, and connect agents to external systems such as Tavily web search and other tools.
+The **Nebius AI Leader** certification covers AI product strategy and vendor evaluation, and the **Nebius Agentic AI Builder** certification covers building AI-powered workflows and applications by integrating AI models via Nebius Token Factory, including end-to-end agentic workflows, RAG pipelines, fine-tuning, and connecting agents to external tools such as Tavily web search. Both sit alongside the AI Performance Engineering Fellowship, a full-stack AI engineering program covering LLM internals & post-training (RLHF, RLVR, SFT), agentic systems on top of third-party APIs (multi-agent systems, RAG, LLM APIs), performance engineering (CUDA, custom kernels, quantization, speculative decoding), and MLOps (experiment management, deployment, monitoring, scaling).
 
 ### 🧠 AI Agents Fundamentals
 <img width="80" alt="Hugging Face Logo" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
