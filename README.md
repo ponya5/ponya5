@@ -90,6 +90,14 @@ Professional tools and platforms built for real-world impact.
 <tr>
 <td width="50%" valign="top">
 
+**[AI License Manager](https://github.com/ponya5/AI-License-Manager)**
+Enterprise AI license governance dashboard for tracking tool spend, adoption, and compliance across an organization. Covers request-to-approval workflows, department-level coverage breakdowns, seat utilization, and a quarterly executive scorecard that surfaces which levers (activation rate, adoption depth, provisioning time) are actually moving usage and cost.
+
+<a href="assets/ai-license-manager-demo.gif"><img src="assets/ai-license-manager-demo.gif" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 **[Autonoma](https://github.com/ponya5/Autonoma)**
 Autonomous, state-aware web security crawler that maps every page and interactive element of an app, tests each one for functional bugs and OWASP vulnerabilities, and reports findings through a live React control console.
 
