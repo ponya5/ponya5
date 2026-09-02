@@ -104,6 +104,8 @@ Autonomous, state-aware web security crawler that maps every page and interactiv
 <a href="assets/autonoma-screenshot.png"><img src="assets/autonoma-screenshot.png" width="100%" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[FormGuard](https://github.com/MisterSponz/FormGuard)**
@@ -112,8 +114,6 @@ Automated verification tool for investor subscription and tax forms (W-8BEN, W-8
 <a href="assets/FormGuard.gif"><img src="assets/FormGuard.gif" width="100%" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Social Stash](https://socialstash.me/)**
@@ -122,6 +122,8 @@ Personal social-media content organizer that saves and categorizes posts across 
 <a href="assets/socialstash-demo.gif"><img src="assets/socialstash-demo.gif" width="100%" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[PathPilot (Monorepo)](https://github.com/MisterSponz/PathPilot)**
@@ -130,8 +132,6 @@ Unified ecosystem of AI apps for education, analytics, and automation including 
 <a href="assets/pathpilot-monorepo-demo.gif"><img src="assets/pathpilot-monorepo-demo.gif" width="100%" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[PathPilot Tutorial Generator](https://github.com/ponya5/PathPilot-Tutorial-Generator)**
@@ -140,6 +140,8 @@ End-to-end AI video pipeline that turns any topic into a fully produced tutorial
 <a href="assets/pathpilot-demo.gif"><img src="assets/pathpilot-demo.gif" width="100%" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Large-Scale Document Migration Tool](https://github.com/ponya5/SFS_Migration_Tool)**
@@ -148,8 +150,6 @@ Full-stack document automation tool for bulk financial-document retrieval from w
 <a href="assets/sfs-migration-screenshot.png"><img src="assets/sfs-migration-screenshot.png" width="100%" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[ClaudeGhost](https://github.com/ponya5/ClaudeGhost)**
