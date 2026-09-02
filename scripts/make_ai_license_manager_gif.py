@@ -5,7 +5,7 @@ from pathlib import Path
 from PIL import Image
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-SOURCE_DIR = REPO_ROOT / "Screenshots"
+SOURCE_DIR = REPO_ROOT / "assets" / "Screenshots"
 OUTPUT_PATH = REPO_ROOT / "assets" / "ai-license-manager-demo.gif"
 
 # Ordered for a natural walkthrough: scorecard -> dashboard overview -> full
