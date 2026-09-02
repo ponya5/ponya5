@@ -3,8 +3,12 @@
 # Beacon
 
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=for-the-badge&logo=github)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/)
 [![Live Demo](https://img.shields.io/badge/Live-beacon--ai.me-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beacon-ai.me)
+
+<a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ponya5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.daniel-shalom.com"><img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/daniel.shalom.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 **A free, open-source event-discovery platform that aggregates tech, AI, and developer events into one Hebrew-friendly dashboard.**
 
@@ -38,23 +42,12 @@ Finding the next relevant conference, meetup, or workshop usually means checking
 
 Visit [beacon-ai.me](https://beacon-ai.me) directly — browse the `/explore` page for the list or calendar view, or submit your own event via `/add-event`.
 
-To run it locally:
-
-```bash
-git clone <YOUR_GIT_URL>
-cd beacon
-npm install
-npm run dev
-```
-
-Requires a Supabase project, a Firecrawl API key (for scraping), and an OpenAI API key (for AI-based location/topic normalization) configured via `.env`.
-
 ## Tech Stack
 
 React 18 + TypeScript + Vite + Tailwind CSS + shadcn/ui, Supabase (Postgres, Auth, Row-Level Security, Edge Functions, pg_cron), Firecrawl with an intelligent fallback scraper, and OpenAI GPT-4o-mini for location/topic normalization.
 
 ---
 
-This is a private repository. [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-shalom-13987a1a/) for a walkthrough or access. Try the live app at [beacon-ai.me](https://beacon-ai.me).
+This is a private repository. Reach out via any of the links above for a walkthrough or access. Try the live app at [beacon-ai.me](https://beacon-ai.me).
 
 [← Back to profile](../../README.md)

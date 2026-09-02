@@ -3,7 +3,11 @@
 # Large-Scale Document Migration Tool
 
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=for-the-badge&logo=github)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/)
+
+<a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ponya5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.daniel-shalom.com"><img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/daniel.shalom.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 **A desktop application for bulk-downloading and managing financial documents from web portals.**
 
@@ -34,35 +38,12 @@ Retrieving fund and investor documents from a web portal one-by-one doesn't scal
 - Compliance/records teams needing a searchable local + cloud archive of financial documents.
 - Any team doing a one-time or recurring bulk document retrieval from a web-based document portal.
 
-## How to Use
-
-```bash
-# Backend
-cd backend
-python -m venv .venv && .venv\Scripts\activate
-pip install -r requirements.txt
-playwright install chromium
-uvicorn app.main:app --reload --port 8000
-
-# Frontend
-cd frontend
-npm install
-npm run dev
-```
-
-Or on Windows, just run `start.bat` to launch both. Web UI at `http://localhost:5173`, API docs at `http://localhost:8000/docs`.
-
-```bash
-# Example: download all fund documents for 2024
-curl "http://localhost:8000/api/v1/documents/download/fund/2024"
-```
-
 ## Tech Stack
 
 FastAPI + Uvicorn backend with Playwright for browser automation and SQLite for local state; React 18 + Vite + TypeScript + Tailwind + Radix UI frontend; optional AWS S3 integration for cloud backup.
 
 ---
 
-This is a private repository. [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-shalom-13987a1a/) for a walkthrough or access.
+This is a private repository. Reach out via any of the links above for a walkthrough or access.
 
 [← Back to profile](../../README.md)

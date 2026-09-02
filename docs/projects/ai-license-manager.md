@@ -3,7 +3,11 @@
 # AI License Manager
 
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=for-the-badge&logo=github)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/)
+
+<a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ponya5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.daniel-shalom.com"><img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/daniel.shalom.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 **An internal platform for tracking, requesting, and governing AI tool access across an organization.**
 
@@ -73,6 +77,6 @@ Full-stack internal web application with a dashboard-first UX (card-based KPIs, 
 
 ---
 
-This is a private repository. [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-shalom-13987a1a/) for a walkthrough or access.
+This is a private repository. Reach out via any of the links above for a walkthrough or access.
 
 [← Back to profile](../../README.md)

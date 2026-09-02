@@ -13,7 +13,7 @@
        style="border-radius: 20px;" />
 </div>
 
-### Head of AI · Head of Delivery & QA | Site Management @ Securitize<br/>AI Innovator · Multi-Agent Systems Builder · Automation Architect
+### Head of AI · Head of Delivery & QA | Site Management @ Securitize<br/>AI Builder · Multi-Agent Systems Builder · Automation Architect
 
 <p align="left" style="margin: 0 0 8px 0;">
   <img src="assets/icons/social-media.gif" width="64" height="64" align="middle" alt="" />
@@ -30,7 +30,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI%20Innovator-%F0%9F%A4%96-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Builder-%F0%9F%A4%96-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Head%20of%20AI-%F0%9F%9A%80-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Delivery%20%26%20QA%20Leader-%F0%9F%9A%80-navy?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multi--Agent%20Systems-%F0%9F%94%AE-orange?style=for-the-badge" />
@@ -222,8 +222,8 @@ A Claude/Cursor AI skill that turns "plan me a trip" into one self-contained HTM
 </td>
 <td width="50%" valign="top">
 
-**[VDock2 | Virtual Stream Deck](docs/projects/vdock2.md)**
-![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/vdock2.md)
+**[VDock2 | Virtual Stream Deck](https://github.com/ponya5/VDock2)**
+![Repo](https://img.shields.io/badge/Repo-Public-brightgreen?style=flat-square&logo=github) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/vdock2.md)
 
 Browser-based control deck for custom button layouts, workflow automation, and live system monitoring with 26+ animated dashboard backgrounds included.
 

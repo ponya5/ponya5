@@ -2,8 +2,8 @@
 
 # VDock2 | Virtual Stream Deck
 
-![Repo](https://img.shields.io/badge/Repo-Private-red?style=for-the-badge&logo=github)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/)
+![Repo](https://img.shields.io/badge/Repo-Public-brightgreen?style=for-the-badge&logo=github)
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ponya5/VDock2)
 
 **A customizable control deck for your computer — buttons, scenes, system actions, widgets, and animated backgrounds in one interface.**
 
@@ -51,6 +51,6 @@ Python Flask backend, Vue 3 + TypeScript frontend, Electron for the desktop shel
 
 ---
 
-This is a private repository. [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-shalom-13987a1a/) for a walkthrough or access.
+⭐ [Star the repo](https://github.com/ponya5/VDock2) if you find it useful.
 
 [← Back to profile](../../README.md)

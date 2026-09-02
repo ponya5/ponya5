@@ -3,8 +3,12 @@
 # The Tokenizer: Rise of the Ledgers
 
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=for-the-badge&logo=github)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/)
 [![Play Now](https://img.shields.io/badge/Play%20Now-thetokenizer.online-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thetokenizer.online/)
+
+<a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ponya5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.daniel-shalom.com"><img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/daniel.shalom.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 **A retro 2D platformer chronicling the journey of tokenization from the 2017 Wild West era to the historic 2025 Wall Street debut.**
 
@@ -48,6 +52,6 @@ Vanilla JavaScript (ES6 modules), HTML5 Canvas for rendering, CSS3 for UI, Web A
 
 ---
 
-This repository is private, but you can play the game right now at [thetokenizer.online](https://thetokenizer.online/). [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-shalom-13987a1a/) for source access.
+This repository is private, but you can play the game right now at [thetokenizer.online](https://thetokenizer.online/). Reach out via any of the links above for source access.
 
 [← Back to profile](../../README.md)

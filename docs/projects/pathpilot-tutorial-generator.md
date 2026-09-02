@@ -3,7 +3,11 @@
 # PathPilot Tutorial Generator
 
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=for-the-badge&logo=github)
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/)
+
+<a href="https://www.linkedin.com/in/daniel-shalom-13987a1a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ponya5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.daniel-shalom.com"><img src="https://img.shields.io/badge/Website-www.daniel--shalom.com-green?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/daniel.shalom.ai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 **An end-to-end AI video pipeline that turns any topic into a fully produced, narrated tutorial video.**
 
@@ -38,15 +42,7 @@ Producing a professional tutorial video normally means writing a script, sourcin
 
 ## How to Use
 
-```bash
-git clone <repository-url>
-cd PathPilot-Tutorial-Generator
-setup.bat        # or ./setup.sh on macOS/Linux
-# copy .env.preview to .env and add your API keys
-start.bat         # backend at :8000, frontend at :3000
-```
-
-Then: enter a topic → review the generated storyboard → configure voice/speed/subtitles → watch progress across the 4 phases → download the finished video.
+Enter a topic → review the generated storyboard → configure voice/speed/subtitles → watch progress across the 4 phases → download the finished video.
 
 ## Tech Stack
 
@@ -54,6 +50,6 @@ FastAPI backend with Google OAuth + JWT, GPT-4/DALL-E 3/Nano Banana Pro/ElevenLa
 
 ---
 
-This is a private repository. [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-shalom-13987a1a/) for a walkthrough or access.
+This is a private repository. Reach out via any of the links above for a walkthrough or access.
 
 [← Back to profile](../../README.md)
