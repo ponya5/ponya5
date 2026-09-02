@@ -91,6 +91,7 @@ Professional tools and platforms built for real-world impact.
 <td width="50%" valign="top">
 
 **[AI License Manager](docs/projects/ai-license-manager.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/ai-license-manager.md)
 
 Enterprise AI license governance dashboard for tracking tool spend, adoption, and compliance across an organization. Covers request-to-approval workflows, department-level coverage breakdowns, seat utilization, and a quarterly executive scorecard that surfaces which levers (activation rate, adoption depth, provisioning time) are actually moving usage and cost.
@@ -101,6 +102,7 @@ Enterprise AI license governance dashboard for tracking tool spend, adoption, an
 <td width="50%" valign="top">
 
 **[Autonoma](docs/projects/autonoma.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/autonoma.md)
 
 Autonomous, state-aware web security crawler that maps every page and interactive element of an app, tests each one for functional bugs and OWASP vulnerabilities, and reports findings through a live React control console.
@@ -113,6 +115,7 @@ Autonomous, state-aware web security crawler that maps every page and interactiv
 <td width="50%" valign="top">
 
 **[FormGuard](docs/projects/formguard.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/formguard.md)
 
 Automated verification tool for investor subscription and tax forms (W-8BEN, W-8BEN-E, W-9, and more). Batch upload, AWS Textract OCR, and intelligent validation that saves hours of manual review work on every cycle.
@@ -123,6 +126,7 @@ Automated verification tool for investor subscription and tax forms (W-8BEN, W-8
 <td width="50%" valign="top">
 
 **[Social Stash](docs/projects/social-stash.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Live Demo](https://img.shields.io/badge/Live-socialstash.me-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://socialstash.me) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/social-stash.md)
 
 Personal social-media content organizer that saves and categorizes posts across X, LinkedIn, Instagram, YouTube, TikTok, and Facebook, with favorites, search, and a PWA install. 1,000+ registered users.
@@ -135,6 +139,7 @@ Personal social-media content organizer that saves and categorizes posts across 
 <td width="50%" valign="top">
 
 **[PathPilot (Monorepo)](docs/projects/pathpilot-monorepo.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/pathpilot-monorepo.md)
 
 Unified ecosystem of AI apps for education, analytics, and automation including Course Analyzer, AI Feedz, Training Tracker, and Log Monitor, sharing a common auth/config/UI foundation.
@@ -145,6 +150,7 @@ Unified ecosystem of AI apps for education, analytics, and automation including 
 <td width="50%" valign="top">
 
 **[PathPilot Tutorial Generator](docs/projects/pathpilot-tutorial-generator.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/pathpilot-tutorial-generator.md)
 
 End-to-end AI video pipeline that turns any topic into a fully produced tutorial (script → visuals → narration → MP4) by chaining GPT-4, DALL-E 3, and ElevenLabs, orchestrated through a Next.js review UI.
@@ -157,6 +163,7 @@ End-to-end AI video pipeline that turns any topic into a fully produced tutorial
 <td width="50%" valign="top">
 
 **[Large-Scale Document Migration Tool](docs/projects/migration-tool.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/migration-tool.md)
 
 Full-stack document automation tool for bulk financial-document retrieval from web portals with Playwright-driven downloads, customizable filtering, and optional AWS S3 integration.
@@ -167,6 +174,7 @@ Full-stack document automation tool for bulk financial-document retrieval from w
 <td width="50%" valign="top">
 
 **[ClaudeGhost](https://github.com/ponya5/ClaudeGhost)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Public-brightgreen?style=flat-square&logo=github) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/claudeghost.md)
 
 Headless supervisor for the Claude Code CLI that runs Claude autonomously with configurable autonomy levels, approves/blocks risky commands from your phone via Telegram, and shows a live Rich terminal dashboard.
@@ -191,6 +199,7 @@ Side projects, experiments, and creative builds.
 <td width="50%" valign="top">
 
 **[The Tokenizer, Rise of the Ledgers](docs/projects/tokenizer.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Play Now](https://img.shields.io/badge/Play-thetokenizer.online-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://thetokenizer.online/) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/tokenizer.md)
 
 Retro 2D platform shooter through crypto-tokenization history (2017 to 2025) with 6 historical eras, boss battles, and a global leaderboard, built entirely in vanilla JS + HTML5 Canvas.
@@ -201,6 +210,7 @@ Retro 2D platform shooter through crypto-tokenization history (2017 to 2025) wit
 <td width="50%" valign="top">
 
 **[Take Your Time (IDE Arcade)](https://github.com/ponya5/TakeYourTime_IDE_Arcade)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Public-brightgreen?style=flat-square&logo=github) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/take-your-time.md)
 
 VS Code extension that turns idle build/AI-agent wait time into arcade breaks. Launches sandboxed game tabs right inside the IDE without interrupting your work.
@@ -213,6 +223,7 @@ VS Code extension that turns idle build/AI-agent wait time into arcade breaks. L
 <td width="50%" valign="top">
 
 **[Trip Planner Dashboard](https://github.com/ponya5/trip-planner-dashboard)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Public-brightgreen?style=flat-square&logo=github) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/trip-planner.md)
 
 A Claude/Cursor AI skill that turns "plan me a trip" into one self-contained HTML dashboard with a live-routed map, animated drive playback, itinerary, hotels, budget, and safety fallbacks. No server, no API key, no build.
@@ -223,6 +234,7 @@ A Claude/Cursor AI skill that turns "plan me a trip" into one self-contained HTM
 <td width="50%" valign="top">
 
 **[VDock2 | Virtual Stream Deck](https://github.com/ponya5/VDock2)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Public-brightgreen?style=flat-square&logo=github) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/vdock2.md)
 
 Browser-based control deck for custom button layouts, workflow automation, and live system monitoring with 26+ animated dashboard backgrounds included.
@@ -235,6 +247,7 @@ Browser-based control deck for custom button layouts, workflow automation, and l
 <td width="50%" valign="top">
 
 **[Beacon](docs/projects/beacon.md)**
+<br/>
 ![Repo](https://img.shields.io/badge/Repo-Private-red?style=flat-square&logo=github) [![Contact Me](https://img.shields.io/badge/Contact%20Me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-shalom-13987a1a/) [![Live Demo](https://img.shields.io/badge/Live-beacon--ai.me-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://beacon-ai.me) [![Details](https://img.shields.io/badge/Details-📄-blue?style=flat-square)](docs/projects/beacon.md)
 
 Free, open-source event-discovery platform that aggregates tech, AI, and developer events from multiple curated sources into one Hebrew-friendly dashboard with list and calendar views.
